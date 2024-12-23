@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Online-Attendance-System-JSP/jar files/jar files/classes12.jar"/>
+	<classpathentry kind="lib" path="Online-Attendance-System-JSP/JSPS &amp; HTML/JSPS &amp; HTML/WEB-INF/lib/classes12.jar"/>
+	<classpathentry kind="lib" path="Online-Attendance-System-JSP/JSPS &amp; HTML/JSPS &amp; HTML/WEB-INF/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="Online-Attendance-System-JSP/JSPS &amp; HTML/JSPS &amp; HTML/WEB-INF/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
